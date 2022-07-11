@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'FuturaStd-Book';
-    src: url('./fonts/FuturaStd-Book.otf') format('otf');
+    src: url('./fonts/FuturaStd-Book.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'FuturaStd-Medium';
-    src: url('./fonts/FuturaStd-Medium.otf') format('otf');
+    src: url('./fonts/FuturaStd-Medium.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
